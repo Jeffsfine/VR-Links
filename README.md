@@ -21,14 +21,14 @@
 20. [Contractors VR](https://store.steampowered.com/app/963930/Contractors/)
 21.	[Google Earth VR]() **FREE**
 22.	[Duck Season](https://store.steampowered.com/app/503580/Duck_Season/)
-23.	[The Climb (O)](
-24.	[TO THE TOP](
+23.	[The Climb (O)](https://www.oculus.com/experiences/rift/866068943510454/)
+24.	[TO THE TOP](https://store.steampowered.com/app/509250/TO_THE_TOP/)
 25.	[Eleven Table Tennis](https://store.steampowered.com/app/488310/Eleven_Table_Tennis/?snr=1_7_15__13)
 26.	[Panoptic](https://store.steampowered.com/app/541930/Panoptic/)
 27.	[Keep Talking and Nobody Explodes](https://store.steampowered.com/app/341800/Keep_Talking_and_Nobody_Explodes/)
 28.	[Budget Cuts](https://store.steampowered.com/app/400940/Budget_Cuts/)
-29.	[Defector (O)](
-30.	[Face Your Fears (O)](
+29.	[Defector (O)](https://www.oculus.com/experiences/rift/1524154440988718/?locale=en_US)
+30.	[Face Your Fears (O)](https://www.oculus.com/experiences/rift/1364532560285203/)
 31.	[PokerStars VR ](https://store.steampowered.com/app/886250/PokerStars_VR/) **FREE**
 32.	[Phasmophobia](https://store.steampowered.com/app/739630/Phasmophobia/)
 33.	[Zero Caliber](https://store.steampowered.com/app/877200/Zero_Caliber_VR/)
