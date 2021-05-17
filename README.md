@@ -1,15 +1,15 @@
 **RHYTHM**
 - [Beat Saber](https://store.steampowered.com/app/620980/Beat_Saber/)
-- [Pistol Whip](https://store.steampowered.com/app/1079800/Pistol_Whip/)
-- [Thumper]
+- [Pistol Whip](https://store.steampowered.com/app/1079800/Pistol_Whip/)& [Oculus](https://www.oculus.com/experiences/quest/2104963472963790/)
+- [Thumper](https://store.steampowered.com/app/356400/Thumper/)
 
 
 **SHOOTER**
-- [Boneworks]()
-- [Zero Caliber]()
-- [Space Pirate Trainer]()
-- [The Walking Dead: Saints and Sinners]() & [Oculus]()
-- [SUPERHOT]()
+- [Boneworks](https://store.steampowered.com/app/823500/BONEWORKS/)
+- [Zero Caliber](https://store.steampowered.com/app/877200/Zero_Caliber_VR/)
+- [Space Pirate Trainer](https://store.steampowered.com/app/418650/Space_Pirate_Trainer/)
+- [The Walking Dead: Saints and Sinners](https://store.steampowered.com/app/1497590/Saints_and_Sinners/) & [Oculus](https://www.oculus.com/experiences/quest/2897337400373711/?locale=en_US)
+- [SUPERHOT](https://store.steampowered.com/app/617830/SUPERHOT_VR/) & [Oculus]()
 - [Hotdogs, Horseshoes & Hand Grenades]()
 - [Pavlov]()
 - [Onward]()
