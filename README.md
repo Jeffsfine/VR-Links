@@ -1,6 +1,6 @@
 # Bilbo's Recommended VR Titles
 1.	[Beat Saber](https://store.steampowered.com/app/620980/Beat_Saber/)
-2.	[SUPERHOT VR](https://store.steampowered.com/app/617830/SUPERHOT_VR/) | ([Quest](https://www.oculus.com/experiences/quest/2104963472963790/) version)
+2.	[SUPERHOT VR](https://store.steampowered.com/app/617830/SUPERHOT_VR/) \| ([Quest](https://www.oculus.com/experiences/quest/2104963472963790/) version)
 3.	[Pavlov VR](https://store.steampowered.com/app/555160/Pavlov_VR/)
 4.	[Vader Immortal E1](https://www.oculus.com/experiences/quest/2108775495884888), [E2](https://www.oculus.com/experiences/quest/2426206484098337/), [E3](https://www.oculus.com/experiences/quest/2223615721048141/) (O)
 5.	[Pistol Whip](https://store.steampowered.com/app/1079800/Pistol_Whip/) & [Oculus](https://www.oculus.com/experiences/quest/2104963472963790/)
