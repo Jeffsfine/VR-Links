@@ -1,7 +1,4 @@
-# Heading Size 1
-## Heading Sized 2
-### Heading Size 3
-#### Heading Size 4
+# Bilbo's Recommended VR Titles
 2.	Beat Saber
 3.	SUPERHOT VR
 4.	Pavlov VR
