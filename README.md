@@ -13,9 +13,9 @@
 - [Space Pirate Trainer](https://store.steampowered.com/app/418650/Space_Pirate_Trainer/)
 - [The Walking Dead: Saints and Sinners](https://store.steampowered.com/app/1497590/Saints_and_Sinners/) & [Oculus](https://www.oculus.com/experiences/quest/2897337400373711/?locale=en_US)
 - [SUPERHOT](https://store.steampowered.com/app/617830/SUPERHOT_VR/) & [Oculus](https://www.oculus.com/experiences/quest/1921533091289407/)
-- [Hotdogs, Horseshoes & Hand Grenades]()
+- [Hotdogs, Horseshoes & Hand Grenades](https://store.steampowered.com/app/450540/)
 - [Pavlov](https://store.steampowered.com/app/555160/Pavlov_VR/)
-- [Onward]()
+- [Onward](https://store.steampowered.com/app/496240/)
 - [Proton War]()
 - [Space Junkies]()
 - [Compound]()
@@ -24,18 +24,18 @@
 
 
 ## **SWORD AND BOARD**
-- [Blade and Sorcery]()
-- [Swords of Gargantua]()
-- [Swords of Gurrah]()
+- [Blade and Sorcery](https://store.steampowered.com/app/629730/Blade_and_Sorcery/)
+- [Swords of Gargantua](https://store.steampowered.com/app/895200/SWORDS_of_GARGANTUA/?snr=1_7_15__13)
+- [Swords of Gurrah](https://store.steampowered.com/app/833090/Swords_of_Gurrah/)
 
 
 ## **STORY**
-- [Budget Cuts]()
-- [Half Life: Alyx]()
+- [Budget Cuts](https://store.steampowered.com/app/400940/Budget_Cuts/)
+- [Half Life: Alyx](https://store.steampowered.com/app/546560/HalfLife_Alyx/)
 
 
 ## **SPORTS**
-- [Eleven Table Tennis]() 
+- [Eleven Table Tennis](https://store.steampowered.com/app/488310/Eleven_Table_Tennis/?snr=1_7_15__13) & [Oculus](https://www.oculus.com/experiences/quest/1995434190525828)
 - [Holoball]()
  
 ## **OTHERS**
@@ -47,4 +47,4 @@
 - [Phasmophobia](https://store.steampowered.com/app/739630/Phasmophobia/)
 - [Tabletop Simulator](https://store.steampowered.com/app/286160/Tabletop_Simulator/)
 
-- [Pokerstars VR]()
+- [Pokerstars VR](https://store.steampowered.com/app/886250/PokerStars_VR/)
