@@ -111,7 +111,7 @@ Steam's [VR Section](https://store.steampowered.com/vr/)
 - [Serious Sam VR](https://store.steampowered.com/bundle/2308/Serious_Sam_VR_Bundle/)
 - [Shadow Legend VR](https://store.steampowered.com/app/987230/Shadow_Legend_VR/?snr=1_7_15__13)
 - [Synth Riders](https://store.steampowered.com/app/885000/Synth_Riders/?snr=1_7_15__13)
-- [Tennis Arcade VR](https://store.steampowered.com/app/751730/Tennis_Arcade_VR/?snr=1_7_15__13
+- [Tennis Arcade VR](https://store.steampowered.com/app/751730/Tennis_Arcade_VR/?snr=1_7_15__13)
 - [Skyrim VR](https://store.steampowered.com/app/611670/The_Elder_Scrolls_V_Skyrim_VR/?snr=1_7_15__13)
 - [The Thrill of the Fight](https://store.steampowered.com/app/494150/The_Thrill_of_the_Fight__VR_Boxing/?snr=1_7_15__13)
 - [Tiny Town VR](https://store.steampowered.com/app/653930/Tiny_Town_VR/?snr=1_7_15__13)
