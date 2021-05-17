@@ -1,15 +1,15 @@
 # Bilbo's Recommended VR Titles
 1.	[Beat Saber](https://store.steampowered.com/app/620980/Beat_Saber/)
 2.	[SUPERHOT VR](https://store.steampowered.com/app/617830/SUPERHOT_VR/) ([quest](https://www.oculus.com/experiences/quest/2104963472963790/) version)
-3.	[Pavlov VR](
-4.	[Vader Immortal E1, E2, E3 (O)](
+3.	[Pavlov VR](https://store.steampowered.com/app/555160/Pavlov_VR/)
+4.	[Vader Immortal E1](https://www.oculus.com/experiences/quest/2108775495884888), [E2](https://www.oculus.com/experiences/quest/2426206484098337/), [E3](https://www.oculus.com/experiences/quest/2223615721048141/) (O)
 5.	[Pistol Whip](https://store.steampowered.com/app/1079800/Pistol_Whip/) & [Oculus](https://www.oculus.com/experiences/quest/2104963472963790/)
-6.	[Half-Life: Alyx](
-7.	[Lone Echo (O)](
-8.	[Blade & Sorcery](
-9.	[BONEWORKS](
-10.	[Robo Recall (O)](
-11.	[Echo VR (free) (O)](
+6.	[Half-Life: Alyx](https://store.steampowered.com/app/546560/HalfLife_Alyx/)
+7.	[Lone Echo](https://www.oculus.com/experiences/rift/1368187813209608/?locale=en_US) (O)
+8.	[Blade & Sorcery](https://store.steampowered.com/app/629730/Blade_and_Sorcery/)
+9.	[BONEWORKS](https://store.steampowered.com/app/823500/BONEWORKS/)
+10.	[Robo Recall (O)](https://www.oculus.com/experiences/rift/1081190428622821)
+11.	[Echo VR (free) (O)](https://www.oculus.com/experiences/rift/1369078409873402)
 12.	[The Lab (free)](
 13.	[VRChat (free)](
 14.	[Hot Dogs, Horseshoes & Hand Grenades](
