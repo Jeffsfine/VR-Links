@@ -1,10 +1,10 @@
-**RHYTHM
+**RHYTHM**
 - [Beat Saber](https://store.steampowered.com/app/620980/Beat_Saber/)
 - [Pistol Whip](https://store.steampowered.com/app/1079800/Pistol_Whip/)
 - [Thumper]
 
 
-**SHOOTER
+**SHOOTER**
 - [Boneworks]()
 - [Zero Caliber]()
 - [Space Pirate Trainer]()
@@ -20,22 +20,22 @@
 - [War Dust](https://store.steampowered.com/app/957790/WAR_DUST__32_vs_32_Battles/)
 
 
-**SWORD AND BOARD
+**SWORD AND BOARD**
 - [Blade and Sorcery]()
 - [Swords of Gargantua]()
 - [Swords of Gurrah]()
 
 
-**STORY
+**STORY**
 - [Budget Cuts]()
 - [Half Life: Alyx]()
 
 
-**SPORTS
+**SPORTS**
 - [Eleven Table Tennis]() 
 - [Holoball]()
  
-**OTHERS
+**OTHERS**
 - [Gorilla Tag](https://store.steampowered.com/app/1533390/Gorilla_Tag/)
 - [Contractors](https://store.steampowered.com/app/963930/Contractors/)
 
