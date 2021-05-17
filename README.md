@@ -45,7 +45,7 @@
 
 ## **RHYTHM**
 - [Beat Saber](https://store.steampowered.com/app/620980/Beat_Saber/)
-- [Pistol Whip](https://store.steampowered.com/app/1079800/Pistol_Whip/) & [Oculus](https://www.oculus.com/experiences/quest/2104963472963790/)
+- [Pistol Whip](https://store.steampowered.com/app/1079800/Pistol_Whip/) & ([wireless](https://www.oculus.com/experiences/quest/2104963472963790/))
 - [Thumper](https://store.steampowered.com/app/356400/Thumper/)
 
 
@@ -53,8 +53,8 @@
 - [Boneworks](https://store.steampowered.com/app/823500/BONEWORKS/)
 - [Zero Caliber](https://store.steampowered.com/app/877200/Zero_Caliber_VR/)
 - [Space Pirate Trainer](https://store.steampowered.com/app/418650/Space_Pirate_Trainer/)
-- [The Walking Dead: Saints and Sinners](https://store.steampowered.com/app/1497590/Saints_and_Sinners/) & [Oculus](https://www.oculus.com/experiences/quest/2897337400373711/?locale=en_US)
-- [SUPERHOT](https://store.steampowered.com/app/617830/SUPERHOT_VR/) & [Oculus](https://www.oculus.com/experiences/quest/1921533091289407/)
+- [The Walking Dead: Saints and Sinners](https://store.steampowered.com/app/1497590/Saints_and_Sinners/) & ([wireless](https://www.oculus.com/experiences/quest/2897337400373711/?locale=en_US))
+- [SUPERHOT](https://store.steampowered.com/app/617830/SUPERHOT_VR/) & ([wireless](https://www.oculus.com/experiences/quest/1921533091289407/))
 - [Hotdogs, Horseshoes & Hand Grenades](https://store.steampowered.com/app/450540/)
 - [Pavlov](https://store.steampowered.com/app/555160/Pavlov_VR/)🟢
 - [Onward](https://store.steampowered.com/app/496240/)🟢
@@ -78,7 +78,7 @@
 
 
 ## **SPORTS**
-- [Eleven Table Tennis](https://store.steampowered.com/app/488310/Eleven_Table_Tennis/?snr=1_7_15__13)🟢 & [Oculus](https://www.oculus.com/experiences/quest/1995434190525828)
+- [Eleven Table Tennis](https://store.steampowered.com/app/488310/Eleven_Table_Tennis/?snr=1_7_15__13)🟢 & ([wireless](https://www.oculus.com/experiences/quest/1995434190525828))
 - [Holoball](https://store.steampowered.com/app/457320/HoloBall/?snr=1_7_15__13)
  
 ## **OTHERS**
