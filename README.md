@@ -48,6 +48,9 @@
 - [Pistol Whip](https://store.steampowered.com/app/1079800/Pistol_Whip/) & ([wireless](https://www.oculus.com/experiences/quest/2104963472963790/))
 - [Thumper](https://store.steampowered.com/app/356400/Thumper/)
 
+## **SPACE SIM**
+- [Elite Dangerous](https://store.steampowered.com/app/359320/Elite_Dangerous/?snr=1_7_15__13)
+- [Everspace](https://store.steampowered.com/app/396750/EVERSPACE/)
 
 ## **SHOOTER**
 - [Boneworks](https://store.steampowered.com/app/823500/BONEWORKS/)
@@ -92,3 +95,25 @@
 
 ## **More Games**
 Steam's [VR Section](https://store.steampowered.com/vr/)
+
+### Jeff's "Downloaded but haven't played yet"
+- [Asgards Wrath](https://www.oculus.com/asgards-wrath/)
+- [Dead Effect 2](https://store.steampowered.com/app/394760/Dead_Effect_2/)
+- [Dungeon Escape](https://store.steampowered.com/app/618920/Dungeon_Escape_VR/)
+- [DMT Dynamic Music Tesseract](https://store.steampowered.com/app/648890/DMT_Dynamic_Music_Tesseract/)
+- [Holopoint Chronicle](https://store.steampowered.com/app/718380/Holopoint_Chronicle/) and [Holopoint](https://store.steampowered.com/app/457960/Holopoint/)
+- [Knockout League](https://store.steampowered.com/app/488920/Knockout_League__Arcade_VR_Boxing/)
+- [Magical Squash](https://store.steampowered.com/app/488920/Knockout_League__Arcade_VR_Boxing/)
+- [MX Bikes](https://store.steampowered.com/app/655500/MX_Bikes/?snr=1_7_15__13)
+- [QuiVR Vanguard](https://store.steampowered.com/app/581460/QuiVr_Vanguard/?snr=1_7_15__13)
+- [Racket Fury](https://store.steampowered.com/app/555050/Racket_Fury_Table_Tennis_VR/?snr=1_7_15__13)
+- [Raw Data](https://store.steampowered.com/app/436320/Raw_Data/?snr=1_7_15__13)
+- [Serious Sam VR](https://store.steampowered.com/bundle/2308/Serious_Sam_VR_Bundle/)
+- [Shadow Legend VR](https://store.steampowered.com/app/987230/Shadow_Legend_VR/?snr=1_7_15__13)
+- [Synth Riders](https://store.steampowered.com/app/885000/Synth_Riders/?snr=1_7_15__13)
+- [Tennis Arcade VR](https://store.steampowered.com/app/751730/Tennis_Arcade_VR/?snr=1_7_15__13
+- [Skyrim VR](https://store.steampowered.com/app/611670/The_Elder_Scrolls_V_Skyrim_VR/?snr=1_7_15__13)
+- [The Thrill of the Fight](https://store.steampowered.com/app/494150/The_Thrill_of_the_Fight__VR_Boxing/?snr=1_7_15__13)
+- [Tiny Town VR](https://store.steampowered.com/app/653930/Tiny_Town_VR/?snr=1_7_15__13)
+- [Titan Slayer 2](https://store.steampowered.com/app/906770/TITAN_SLAYER/) or [One](https://store.steampowered.com/app/528260/TITAN_SLAYER/)
+- [Wanted Killer VR](https://store.steampowered.com/app/759540/Wanted_Killer_VR/?snr=1_7_15__13)
