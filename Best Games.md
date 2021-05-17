@@ -8,15 +8,15 @@
 7.	[Lone Echo](https://www.oculus.com/experiences/rift/1368187813209608/?locale=en_US) (O)
 8.	[Blade & Sorcery](https://store.steampowered.com/app/629730/Blade_and_Sorcery/)
 9.	[BONEWORKS](https://store.steampowered.com/app/823500/BONEWORKS/)
-10.	[Robo Recall (O)](https://www.oculus.com/experiences/rift/1081190428622821)
-11.	[Echo VR (free) (O)](https://www.oculus.com/experiences/rift/1369078409873402)
+10.	[Robo Recall](https://www.oculus.com/experiences/rift/1081190428622821) (O)
+11.	[Echo VR (free)](https://www.oculus.com/experiences/rift/1369078409873402) (O)
 12.	[The Lab (free)](
 13.	[VRChat (free)](
-14.	[Hot Dogs, Horseshoes & Hand Grenades](
+14.	[Hot Dogs, Horseshoes & Hand Grenades](https://store.steampowered.com/app/450540/)
 15.	[DAVIGO (free)](
-16.	[Space Pirate Trainer](
-17.	[Onward](
-18. [The Walking Dead: Saints & Sinners](
+16.	[Space Pirate Trainer](https://store.steampowered.com/app/418650/Space_Pirate_Trainer/)
+17.	[Onward](https://store.steampowered.com/app/496240/)
+18. [The Walking Dead: Saints & Sinners](https://store.steampowered.com/app/1497590/Saints_and_Sinners/) & ([quest](https://www.oculus.com/experiences/quest/2897337400373711/?locale=en_US) version)
 19. [Swords of Gurrah](
 20. [Contractors VR](
 21.	[Google Earth VR (free)](
