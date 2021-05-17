@@ -11,7 +11,7 @@
 10.	[Robo Recall](https://www.oculus.com/experiences/rift/1081190428622821) (O)
 11.	[Echo VR](https://www.oculus.com/experiences/rift/1369078409873402) (O) **FREE**
 12.	[The Lab]() **FREE**
-13.	[VRChat ]() **FREE**
+13.	[VRChat]() **FREE**
 14.	[Hot Dogs, Horseshoes & Hand Grenades](https://store.steampowered.com/app/450540/)
 15.	[DAVIGO](https://www.davigogame.com/) **FREE**
 16.	[Space Pirate Trainer](https://store.steampowered.com/app/418650/Space_Pirate_Trainer/)
