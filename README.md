@@ -79,7 +79,7 @@
  
 ## **OTHERS**
 - [Gorilla Tag](https://store.steampowered.com/app/1533390/Gorilla_Tag/)🟢
-- [Contractors](https://store.steampowered.com/app/963930/Contractors/)
+- [Contractors](https://store.steampowered.com/app/963930/Contractors/)🟢
 - [Panoptic](https://store.steampowered.com/app/541930/Panoptic/)
 - [Keep Talking and Nobody Explodes](https://store.steampowered.com/app/341800/Keep_Talking_and_Nobody_Explodes/)🟢
 - [Phasmophobia](https://store.steampowered.com/app/739630/Phasmophobia/)🟢
