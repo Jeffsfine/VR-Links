@@ -69,6 +69,7 @@
 - [Blade and Sorcery](https://store.steampowered.com/app/629730/Blade_and_Sorcery/)
 - [Swords of Gargantua](https://store.steampowered.com/app/895200/SWORDS_of_GARGANTUA/?snr=1_7_15__13)🟢
 - [Swords of Gurrah](https://store.steampowered.com/app/833090/Swords_of_Gurrah/)🟢
+- [VR Dungeon Knight](https://store.steampowered.com/app/566860/VR_Dungeon_Knight/?snr=1_7_15__13)🟢
 
 
 ## **STORY**
@@ -88,3 +89,6 @@
 - [Phasmophobia](https://store.steampowered.com/app/739630/Phasmophobia/)🟢
 - [Tabletop Simulator](https://store.steampowered.com/app/286160/Tabletop_Simulator/) 🟢
 - [Pokerstars VR](https://store.steampowered.com/app/886250/PokerStars_VR/)🟢
+
+## **More Games**
+Steam's [VR Section](https://store.steampowered.com/vr/)
