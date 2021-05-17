@@ -9,30 +9,30 @@
 8.	[Blade & Sorcery](https://store.steampowered.com/app/629730/Blade_and_Sorcery/)
 9.	[BONEWORKS](https://store.steampowered.com/app/823500/BONEWORKS/)
 10.	[Robo Recall](https://www.oculus.com/experiences/rift/1081190428622821) (O)
-11.	[Echo VR (free)](https://www.oculus.com/experiences/rift/1369078409873402) (O)
-12.	[The Lab (free)](
-13.	[VRChat (free)](
+11.	[Echo VR](https://www.oculus.com/experiences/rift/1369078409873402) (O) **FREE**
+12.	[The Lab]() **FREE**
+13.	[VRChat ]() **FREE**
 14.	[Hot Dogs, Horseshoes & Hand Grenades](https://store.steampowered.com/app/450540/)
 15.	[DAVIGO (free)](
 16.	[Space Pirate Trainer](https://store.steampowered.com/app/418650/Space_Pirate_Trainer/)
 17.	[Onward](https://store.steampowered.com/app/496240/)
 18. [The Walking Dead: Saints & Sinners](https://store.steampowered.com/app/1497590/Saints_and_Sinners/) & ([quest](https://www.oculus.com/experiences/quest/2897337400373711/?locale=en_US) version)
-19. [Swords of Gurrah](
-20. [Contractors VR](
-21.	[Google Earth VR (free)](
-22.	[Duck Season](
+19. [Swords of Gurrah](https://store.steampowered.com/app/833090/Swords_of_Gurrah/)
+20. [Contractors VR](https://store.steampowered.com/app/963930/Contractors/)
+21.	[Google Earth VR]() **FREE**
+22.	[Duck Season](https://store.steampowered.com/app/503580/Duck_Season/)
 23.	[The Climb (O)](
 24.	[TO THE TOP](
-25.	[Eleven Table Tennis](
-26.	[Panoptic](
-27.	[Keep Talking and Nobody Explodes](
-28.	[Budget Cuts](
+25.	[Eleven Table Tennis](https://store.steampowered.com/app/488310/Eleven_Table_Tennis/?snr=1_7_15__13)
+26.	[Panoptic](https://store.steampowered.com/app/541930/Panoptic/)
+27.	[Keep Talking and Nobody Explodes](https://store.steampowered.com/app/341800/Keep_Talking_and_Nobody_Explodes/)
+28.	[Budget Cuts](https://store.steampowered.com/app/400940/Budget_Cuts/)
 29.	[Defector (O)](
 30.	[Face Your Fears (O)](
-31.	[PokerStars VR (free)](
-32.	[Phasmophobia](
-33.	[Zero Caliber](
-34.	[WAR DUST](
+31.	[PokerStars VR ](https://store.steampowered.com/app/886250/PokerStars_VR/) **FREE**
+32.	[Phasmophobia](https://store.steampowered.com/app/739630/Phasmophobia/)
+33.	[Zero Caliber](https://store.steampowered.com/app/877200/Zero_Caliber_VR/)
+34.	[WAR DUST](https://store.steampowered.com/app/957790/WAR_DUST__32_vs_32_Battles/)
 
 
 Rhythm
