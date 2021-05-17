@@ -42,10 +42,12 @@
 🔴🟠🟡🟢🔵🟣🟤⚫⚪🔘🛑
 
 🟢 = Multipalyer
+🛑 = Check this out
+
 
 ## **RHYTHM**
-- [Beat Saber](https://store.steampowered.com/app/620980/Beat_Saber/)
-- [Pistol Whip](https://store.steampowered.com/app/1079800/Pistol_Whip/) & ([wireless](https://www.oculus.com/experiences/quest/2104963472963790/))
+- [Beat Saber](https://store.steampowered.com/app/620980/Beat_Saber/)🛑
+- [Pistol Whip](https://store.steampowered.com/app/1079800/Pistol_Whip/) 🛑 & ([wireless](https://www.oculus.com/experiences/quest/2104963472963790/))
 - [Thumper](https://store.steampowered.com/app/356400/Thumper/)
 
 ## **SPACE SIM**
@@ -53,36 +55,36 @@
 - [Everspace](https://store.steampowered.com/app/396750/EVERSPACE/)
 
 ## **SHOOTER**
-- [Boneworks](https://store.steampowered.com/app/823500/BONEWORKS/)
+- [Boneworks](https://store.steampowered.com/app/823500/BONEWORKS/)🛑
 - [Zero Caliber](https://store.steampowered.com/app/877200/Zero_Caliber_VR/)
 - [Space Pirate Trainer](https://store.steampowered.com/app/418650/Space_Pirate_Trainer/)
 - [The Walking Dead: Saints and Sinners](https://store.steampowered.com/app/1497590/Saints_and_Sinners/) & ([wireless](https://www.oculus.com/experiences/quest/2897337400373711/?locale=en_US))
-- [SUPERHOT](https://store.steampowered.com/app/617830/SUPERHOT_VR/) & ([wireless](https://www.oculus.com/experiences/quest/1921533091289407/))
+- [SUPERHOT](https://store.steampowered.com/app/617830/SUPERHOT_VR/) 🛑 & ([wireless](https://www.oculus.com/experiences/quest/1921533091289407/))
 - [Hotdogs, Horseshoes & Hand Grenades](https://store.steampowered.com/app/450540/)
-- [Pavlov](https://store.steampowered.com/app/555160/Pavlov_VR/)🟢
+- [Pavlov](https://store.steampowered.com/app/555160/Pavlov_VR/)🟢 🛑
 - [Onward](https://store.steampowered.com/app/496240/)🟢
 - [Proton War](https://store.steampowered.com/app/461410/Protonwar/)🟢
 - [Space Junkies](https://store.steampowered.com/app/647590/Space_Junkies/)🟢
-- [Compound](https://store.steampowered.com/app/615120/COMPOUND/)
+- [Compound](https://store.steampowered.com/app/615120/COMPOUND/)🛑
 - [Duck Season](https://store.steampowered.com/app/503580/Duck_Season/)
 - [War Dust](https://store.steampowered.com/app/957790/WAR_DUST__32_vs_32_Battles/)🟢
 - [Into The Radius](https://store.steampowered.com/app/1012790/Into_the_Radius_VR/) 
 
 ## **SWORD AND BOARD**
-- [Blade and Sorcery](https://store.steampowered.com/app/629730/Blade_and_Sorcery/)
+- [Blade and Sorcery](https://store.steampowered.com/app/629730/Blade_and_Sorcery/)🛑
 - [Swords of Gargantua](https://store.steampowered.com/app/895200/SWORDS_of_GARGANTUA/?snr=1_7_15__13)🟢
-- [Swords of Gurrah](https://store.steampowered.com/app/833090/Swords_of_Gurrah/)🟢
+- [Swords of Gurrah](https://store.steampowered.com/app/833090/Swords_of_Gurrah/)🟢🛑
 - [VR Dungeon Knight](https://store.steampowered.com/app/566860/VR_Dungeon_Knight/?snr=1_7_15__13)🟢
 
 
 ## **STORY**
 - [Budget Cuts](https://store.steampowered.com/app/400940/Budget_Cuts/)
-- [Half Life: Alyx](https://store.steampowered.com/app/546560/HalfLife_Alyx/)
+- [Half Life: Alyx](https://store.steampowered.com/app/546560/HalfLife_Alyx/)🛑
 
 
 ## **SPORTS**
 - [Eleven Table Tennis](https://store.steampowered.com/app/488310/Eleven_Table_Tennis/?snr=1_7_15__13)🟢 & ([wireless](https://www.oculus.com/experiences/quest/1995434190525828))
-- [Holoball](https://store.steampowered.com/app/457320/HoloBall/?snr=1_7_15__13)
+- [Holoball](https://store.steampowered.com/app/457320/HoloBall/?snr=1_7_15__13)🛑
  
 ## **OTHERS**
 - [Gorilla Tag](https://store.steampowered.com/app/1533390/Gorilla_Tag/)🟢
@@ -90,7 +92,7 @@
 - [Panoptic](https://store.steampowered.com/app/541930/Panoptic/)
 - [Keep Talking and Nobody Explodes](https://store.steampowered.com/app/341800/Keep_Talking_and_Nobody_Explodes/)🟢
 - [Phasmophobia](https://store.steampowered.com/app/739630/Phasmophobia/)🟢
-- [Tabletop Simulator](https://store.steampowered.com/app/286160/Tabletop_Simulator/) 🟢
+- [Tabletop Simulator](https://store.steampowered.com/app/286160/Tabletop_Simulator/)🟢
 - [Pokerstars VR](https://store.steampowered.com/app/886250/PokerStars_VR/)🟢
 
 ## **More Games**
